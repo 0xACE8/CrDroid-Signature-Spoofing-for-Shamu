@@ -1,4 +1,6 @@
-CrDroid Signature Spoofing of Shamu (Nexus 6)
+Signature Spoofing of CrDroid
+
+Only for Shamu (Google Nexus 6)
 
 This module makes Signature Spoofing for microG.
 
